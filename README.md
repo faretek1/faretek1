@@ -4,7 +4,7 @@
 [![stuff](https://img.shields.io/badge/link_to-discussions-ffffff)](https://github.com/FAReTek1/faretek1/discussions)
 ![](https://komarev.com/ghpvc/?username=faretek1)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=faretek1&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=faretek1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/faretek1/_github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/faretek1/_github-stats/master/generated/languages.svg#gh-dark-mode-only)
