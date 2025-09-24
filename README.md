@@ -5,7 +5,6 @@
 ![](https://komarev.com/ghpvc/?username=faretek1)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=faretek1&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=faretek1&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/faretek1/_github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/faretek1/_github-stats/master/generated/languages.svg#gh-dark-mode-only)
