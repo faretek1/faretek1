@@ -12,4 +12,3 @@
 ## [Blog](https://faretek1.github.io/blog/)
 
 ###### I'm faretek. When capitalized, it's spelt FAReTek. But those capital letters spell out 'fart'. Oh well...
-<!-- github-readme-stats instead of github-readme-stats-xi-flame-xcnavi3j9o -->
