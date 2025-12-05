@@ -3,7 +3,7 @@
 [![stuff](https://img.shields.io/badge/link_to-gists-25292e)](https://gist.github.com/FAReTek1)
 ![](https://komarev.com/ghpvc/?username=faretek1)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=faretek1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=faretek1&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![](https://raw.githubusercontent.com/faretek1/_github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/faretek1/_github-stats)
 [![](https://raw.githubusercontent.com/faretek1/_github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/faretek1/_github-stats)
