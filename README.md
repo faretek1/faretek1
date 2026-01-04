@@ -8,6 +8,8 @@
 [![](https://raw.githubusercontent.com/faretek1/_github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/faretek1/_github-stats)
 [![](https://raw.githubusercontent.com/faretek1/_github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/faretek1/_github-stats)
 
+###### btw this language stats thing is wildly inaccurate (it's counting @thecommcraft's kotlin code as mine, for example
+###### also **i** do not have 200+ gh stars, thats scratchattach (which i contributed to)
 
 ## [Blog](https://faretek.dev/blog/)
 
