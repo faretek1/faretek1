@@ -1,16 +1,9 @@
-[![stuff](https://img.shields.io/badge/link_to-scratch-f8a937)](https://scratch.mit.edu/users/faretek1)
-[![stuff](https://img.shields.io/badge/link_to-blog-6a4332)](https://faretek.dev/blog/)
-[![stuff](https://img.shields.io/badge/link_to-gists-25292e)](https://gist.github.com/FAReTek1)
-![](https://komarev.com/ghpvc/?username=faretek1)
+# hi
 
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=faretek1&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+i only use this account for collaborting on projects hosted on github. Most of my projects are on [codeberg](https://codeberg.org/rtk)
 
-[![](https://raw.githubusercontent.com/faretek1/_github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/faretek1/_github-stats)
-[![](https://raw.githubusercontent.com/faretek1/_github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/faretek1/_github-stats)
+It's actually quite absurd that github is the home of most free software. Because github is not free. Let's use a [free home for free software](https://codeberg.org/about)
 
-###### btw this language stats thing is wildly inaccurate (it's counting @thecommcraft's kotlin code as mine, for example
-###### also **i** do not have 200+ gh stars, thats scratchattach (which i contributed to)
+Even if it's not as convenient, freedom comes at a cost, and codeberg/forgejo is free software so you can [modify and contribute to the codebase](https://codeberg.org/Codeberg)
 
-## [Blog](https://faretek.dev/blog/)
-
-###### I'm faretek. When capitalized, it's spelt FAReTek. But those capital letters spell out 'fart'. Oh well...
+[hut](https://github.com/hut)
