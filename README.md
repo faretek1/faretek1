@@ -1,3 +1,3 @@
-# _giscus_discussions
+# hi
 
-This repository hosts the discussions used by @giscus for the comments sections on [my github pages](https://faretek1.github.io/).
+i only use this account for collaborating on projects hosted on github. Most of my projects are on [codeberg](https://codeberg.org/rtk)
